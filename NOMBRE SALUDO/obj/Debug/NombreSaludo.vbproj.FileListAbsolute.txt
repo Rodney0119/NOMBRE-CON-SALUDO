@@ -1,0 +1,12 @@
+C:\Users\Rodney\source\repos\NombreSaludo\bin\Debug\NombreSaludo.exe.config
+C:\Users\Rodney\source\repos\NombreSaludo\bin\Debug\NombreSaludo.exe
+C:\Users\Rodney\source\repos\NombreSaludo\bin\Debug\NombreSaludo.pdb
+C:\Users\Rodney\source\repos\NombreSaludo\bin\Debug\NombreSaludo.xml
+C:\Users\Rodney\source\repos\NombreSaludo\obj\Debug\NombreSaludo.vbprojAssemblyReference.cache
+C:\Users\Rodney\source\repos\NombreSaludo\obj\Debug\NombreSaludo.Form1.resources
+C:\Users\Rodney\source\repos\NombreSaludo\obj\Debug\NombreSaludo.Resources.resources
+C:\Users\Rodney\source\repos\NombreSaludo\obj\Debug\NombreSaludo.vbproj.GenerateResource.cache
+C:\Users\Rodney\source\repos\NombreSaludo\obj\Debug\NombreSaludo.vbproj.CoreCompileInputs.cache
+C:\Users\Rodney\source\repos\NombreSaludo\obj\Debug\NombreSaludo.exe
+C:\Users\Rodney\source\repos\NombreSaludo\obj\Debug\NombreSaludo.xml
+C:\Users\Rodney\source\repos\NombreSaludo\obj\Debug\NombreSaludo.pdb
